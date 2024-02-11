@@ -10,7 +10,10 @@ package com.jorgecode.crupjavaformulario;
  */
 public class CrupJavaFormulario {
 
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
+  public static void main(String[] args) {
+      
+        Formulario.FormPrincipal objetoFormulario = new Formulario.FormPrincipal();
+        objetoFormulario.setVisible(true);
+        
     }
 }
