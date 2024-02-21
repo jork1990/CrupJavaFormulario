@@ -12,10 +12,8 @@ import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
 
 
-
 public class FormPrincipal extends javax.swing.JFrame {
 
-   
     
     public File archivoseleccionado;
     
